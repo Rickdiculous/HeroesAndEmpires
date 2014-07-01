@@ -8,6 +8,13 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+#Ignored Folders to actually make this work
+/Intermediate/*
+Intermediate
+Saved
+Content/*
+!Content/HaE
+
 # Windows Installer files
 *.cab
 *.msi
